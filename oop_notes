@@ -1,0 +1,18 @@
+Object oriented programming
+
+1. Real world actors <-> Data in the software
+  - Objects
+    - RAM at some random memory address
+    - Student objects in the RAM - 10 objects
+    - Professor objects in the RAM - 20 objects
+  - class
+    - Helps in the creation of an object
+    - 1 to n objects using a class
+    - Gives a data type to an object
+    - Blueprint for an object
+
+2. Real world actor characteristics <-> Properties of the objects in the RAM
+
+3. Real world actor actions <-> Methods to be called on the object
+
+Constructors
